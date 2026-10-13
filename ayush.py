@@ -1,0 +1,1 @@
+print("hello dosto ....\nmy Name is Ayush Jaiswal..\nUmmid hai app sabhi acche honge..\n " )
