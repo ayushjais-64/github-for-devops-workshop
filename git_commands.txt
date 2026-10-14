@@ -19,5 +19,3 @@ clear
 
 git pull origin master  
 git status
-
-this is something new changes..
