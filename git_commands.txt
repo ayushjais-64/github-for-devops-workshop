@@ -17,4 +17,5 @@ git status
 git push origin master    
 clear
 
-git pull origin master                     
+git pull origin master  
+git status
